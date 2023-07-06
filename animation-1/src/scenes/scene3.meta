@@ -1,0 +1,74 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 2.489780783602226
+    },
+    {
+      "name": "grid",
+      "targetTime": 7.029652344219095
+    },
+    {
+      "name": "mag",
+      "targetTime": 14.968941027607423
+    },
+    {
+      "name": "tilt",
+      "targetTime": 21.96894102760742
+    },
+    {
+      "name": "move",
+      "targetTime": 29.379225127206542
+    },
+    {
+      "name": "part2",
+      "targetTime": 39.37922512720654
+    },
+    {
+      "name": "v1",
+      "targetTime": 43.935582178659956
+    },
+    {
+      "name": "v2",
+      "targetTime": 50.304329822454434
+    },
+    {
+      "name": "v3",
+      "targetTime": 56.10238389863128
+    },
+    {
+      "name": "rotate",
+      "targetTime": 61.994083593043136
+    },
+    {
+      "name": "90deg",
+      "targetTime": 71.99408359304314
+    },
+    {
+      "name": "rearr",
+      "targetTime": 76.02596888998195
+    },
+    {
+      "name": "symbols",
+      "targetTime": 82.02596888998195
+    },
+    {
+      "name": "rot",
+      "targetTime": 94.02596888998195
+    },
+    {
+      "name": "rot2",
+      "targetTime": 96.02596888998195
+    },
+    {
+      "name": "rot3",
+      "targetTime": 104.02596888998195
+    },
+    {
+      "name": "end",
+      "targetTime": 109.50374399946563
+    }
+  ],
+  "seed": 2834046165
+}
